@@ -1,12 +1,211 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B158E6FF-F849-46F8-BE55-5F64C7E1B12B}|4Tables\\4Tables.Presentation.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\4tables2.0\\4tables\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B158E6FF-F849-46F8-BE55-5F64C7E1B12B}|4Tables\\4Tables.Presentation.csproj|solutionrelative:4tables\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A887116-D55F-4D21-883F-549C98B405C9}|4Tables2.0.Application\\4Tables2.0.Application.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\4tables2.0\\4tables2.0.application\\product\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A887116-D55F-4D21-883F-549C98B405C9}|4Tables2.0.Application\\4Tables2.0.Application.csproj|solutionrelative:4tables2.0.application\\product\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A887116-D55F-4D21-883F-549C98B405C9}|4Tables2.0.Application\\4Tables2.0.Application.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\4tables2.0\\4tables2.0.application\\product\\adapter\\productadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A887116-D55F-4D21-883F-549C98B405C9}|4Tables2.0.Application\\4Tables2.0.Application.csproj|solutionrelative:4tables2.0.application\\product\\adapter\\productadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC74B52-C3A9-42EA-B952-93920E8BE478}|4Tables2.0.Domain\\4Tables2.0.Domain.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\4tables2.0\\4tables2.0.domain\\product\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC74B52-C3A9-42EA-B952-93920E8BE478}|4Tables2.0.Domain\\4Tables2.0.Domain.csproj|solutionrelative:4tables2.0.domain\\product\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC74B52-C3A9-42EA-B952-93920E8BE478}|4Tables2.0.Domain\\4Tables2.0.Domain.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\4tables2.0\\4tables2.0.domain\\product\\interfaces\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC74B52-C3A9-42EA-B952-93920E8BE478}|4Tables2.0.Domain\\4Tables2.0.Domain.csproj|solutionrelative:4tables2.0.domain\\product\\interfaces\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB21AF0-5211-43B6-97F9-2A567B3568D2}|4Tables2.0.Infra\\4Tables2.0.Infra.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\4tables2.0\\4tables2.0.infra\\product\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB21AF0-5211-43B6-97F9-2A567B3568D2}|4Tables2.0.Infra\\4Tables2.0.Infra.csproj|solutionrelative:4tables2.0.infra\\product\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC74B52-C3A9-42EA-B952-93920E8BE478}|4Tables2.0.Domain\\4Tables2.0.Domain.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\4tables2.0\\4tables2.0.domain\\product\\interfaces\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC74B52-C3A9-42EA-B952-93920E8BE478}|4Tables2.0.Domain\\4Tables2.0.Domain.csproj|solutionrelative:4tables2.0.domain\\product\\interfaces\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC74B52-C3A9-42EA-B952-93920E8BE478}|4Tables2.0.Domain\\4Tables2.0.Domain.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\4tables2.0\\4tables2.0.domain\\product\\dto\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC74B52-C3A9-42EA-B952-93920E8BE478}|4Tables2.0.Domain\\4Tables2.0.Domain.csproj|solutionrelative:4tables2.0.domain\\product\\dto\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB21AF0-5211-43B6-97F9-2A567B3568D2}|4Tables2.0.Infra\\4Tables2.0.Infra.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\4tables2.0\\4tables2.0.infra\\4tables2.0.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0DB21AF0-5211-43B6-97F9-2A567B3568D2}|4Tables2.0.Infra\\4Tables2.0.Infra.csproj|solutionrelative:4tables2.0.infra\\4tables2.0.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB21AF0-5211-43B6-97F9-2A567B3568D2}|4Tables2.0.Infra\\4Tables2.0.Infra.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\4tables2.0\\4tables2.0.infra\\base\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB21AF0-5211-43B6-97F9-2A567B3568D2}|4Tables2.0.Infra\\4Tables2.0.Infra.csproj|solutionrelative:4tables2.0.infra\\base\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Application\\Product\\Adapter\\ProductAdapter.cs",
+              "RelativeDocumentMoniker": "4Tables2.0.Application\\Product\\Adapter\\ProductAdapter.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Application\\Product\\Adapter\\ProductAdapter.cs",
+              "RelativeToolTip": "4Tables2.0.Application\\Product\\Adapter\\ProductAdapter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T18:31:26.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Domain\\Product\\Dto\\ProductResponseDto.cs",
+              "RelativeDocumentMoniker": "4Tables2.0.Domain\\Product\\Dto\\ProductResponseDto.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Domain\\Product\\Dto\\ProductResponseDto.cs",
+              "RelativeToolTip": "4Tables2.0.Domain\\Product\\Dto\\ProductResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T18:25:30.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "4Tables2.0.Infra",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Infra\\4Tables2.0.Infra.csproj",
+              "RelativeDocumentMoniker": "4Tables2.0.Infra\\4Tables2.0.Infra.csproj",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Infra\\4Tables2.0.Infra.csproj",
+              "RelativeToolTip": "4Tables2.0.Infra\\4Tables2.0.Infra.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-19T17:59:31.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables\\Controller\\ProductController.cs",
+              "RelativeDocumentMoniker": "4Tables\\Controller\\ProductController.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables\\Controller\\ProductController.cs",
+              "RelativeToolTip": "4Tables\\Controller\\ProductController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:50:46.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Application\\Product\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "4Tables2.0.Application\\Product\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Application\\Product\\Services\\ProductService.cs",
+              "RelativeToolTip": "4Tables2.0.Application\\Product\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwDUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:47:44.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Infra\\Base\\Repository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "4Tables2.0.Infra\\Base\\Repository\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Infra\\Base\\Repository\\BaseRepository.cs",
+              "RelativeToolTip": "4Tables2.0.Infra\\Base\\Repository\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:44:44.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Infra\\Product\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "4Tables2.0.Infra\\Product\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Infra\\Product\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "4Tables2.0.Infra\\Product\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:41:59.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Domain\\Product\\Interfaces\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "4Tables2.0.Domain\\Product\\Interfaces\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Domain\\Product\\Interfaces\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "4Tables2.0.Domain\\Product\\Interfaces\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:38:14.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Domain\\Product\\Interfaces\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "4Tables2.0.Domain\\Product\\Interfaces\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Domain\\Product\\Interfaces\\Services\\IProductService.cs",
+              "RelativeToolTip": "4Tables2.0.Domain\\Product\\Interfaces\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:37:22.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "cb5de156-8146-42ce-9549-07bda50d68fe",
+        "Display": 1,
+        "X": 173,
+        "Y": 57,
+        "Width": 1686,
+        "Height": 990,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Domain\\Product\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "4Tables2.0.Domain\\Product\\Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Domain\\Product\\Entity\\Product.cs",
+              "RelativeToolTip": "4Tables2.0.Domain\\Product\\Entity\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T18:26:41.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

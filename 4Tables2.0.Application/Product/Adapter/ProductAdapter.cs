@@ -20,5 +20,30 @@ namespace _4Tables2._0.Application.ProductApplication.Adapter
                        .AddTotalRequests(0)
                        .AddCategory(dto.category);
         }
+
+        public static ProductResponseDto ToDto(Product entity)
+        {
+            return new ProductResponseDto(entity.Id,
+                                          entity.Name,
+                                          entity.Price.ToString("N2").Replace('.', ','),
+                                          entity.TotalRequests,
+                                          entity.Category);
+        }
+
+        public static IEnumerable<ProductResponseDto> ToDto(List<Product> products)
+        {
+            foreach (var product in products)
+            {
+                yield return ToDto(product);
+            }
+        }
+
+        public static IEnumerable<ProductResponseDto> ToDto(IEnumerable<Product> products)
+        {
+            foreach (var product in products)
+            {
+                yield return ToDto(product);
+            }
+        }
     }
 }
