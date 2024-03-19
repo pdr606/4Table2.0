@@ -12,7 +12,7 @@ namespace _4Tables2._0.Infra.Data.EntitiesConfig
 
             builder.Property(x => x.Total)
                    .IsRequired()
-                   .HasPrecision(8, 4);
+                   .HasPrecision(8, 2);
 
             builder.HasMany(x => x.CustomerOrdes)
                     .WithOne(x => x.Order)

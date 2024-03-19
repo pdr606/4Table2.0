@@ -1,5 +1,6 @@
 ﻿using _4Tables2._0.Domain.Base.Entity;
 using _4Tables2._0.Domain.CostumeOrder.Entity;
+using _4Tables2._0.Domain.ProductDomain.Enum;
 
 namespace _4Tables2._0.Domain.ProductDomain.Entity
 {
@@ -9,6 +10,7 @@ namespace _4Tables2._0.Domain.ProductDomain.Entity
         public string Name { get; private set; } = string.Empty;
         public decimal Price { get; private set; }
         public int TotalRequests{ get; private set; }
+        public ProductCategory Category { get; private set; }
         public CustomerOrder CostumerOrder { get; private set; }
 
         public Product() { }
@@ -35,6 +37,10 @@ namespace _4Tables2._0.Domain.ProductDomain.Entity
             TotalRequests = totalRequests; return this;
         }
 
+        public Product AddCategory(ProductCategory category)
+        {
+            Category = category; return this;
+        }
         #endregion
     }
 }

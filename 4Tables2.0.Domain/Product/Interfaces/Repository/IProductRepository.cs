@@ -5,5 +5,7 @@ namespace _4Tables2._0.Domain.ProductDomain.Interfaces.Repository
 {
     public interface IProductRepository : IBaseRepository<Product>
     {
+        Task AddRangeAsync(List<Product> products);
+        Task<Product> FindByName(string name);
     }
 }

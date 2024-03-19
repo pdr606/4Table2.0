@@ -7,7 +7,7 @@ namespace _4Tables2._0.Application.Base.Repository
 {
     public class BaseRepository<TEntity> : IBaseRepository<TEntity> where TEntity : BaseEntity
     {
-        private readonly ApplicationDbContext _db;
+        protected readonly ApplicationDbContext _db;
 
         public BaseRepository(ApplicationDbContext db)
         {

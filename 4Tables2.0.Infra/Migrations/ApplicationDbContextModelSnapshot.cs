@@ -82,8 +82,8 @@ namespace _4Tables2._0.Infra.Migrations
                         .HasColumnType("timestamp with time zone");
 
                     b.Property<decimal>("Total")
-                        .HasPrecision(8, 4)
-                        .HasColumnType("numeric(8,4)");
+                        .HasPrecision(8, 2)
+                        .HasColumnType("numeric(8,2)");
 
                     b.Property<DateTime>("Updated_At")
                         .HasColumnType("timestamp with time zone");
@@ -103,6 +103,9 @@ namespace _4Tables2._0.Infra.Migrations
 
                     b.Property<bool>("Available")
                         .HasColumnType("boolean");
+
+                    b.Property<int>("Category")
+                        .HasColumnType("integer");
 
                     b.Property<DateTime>("Created_At")
                         .HasColumnType("timestamp with time zone");
