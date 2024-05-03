@@ -52,5 +52,10 @@ namespace _4Tables2._0.Infra.ProductDomain.Repository
         {
             return await _db.Set<Product>().Where(x => x.Category == category).AsNoTracking().ToListAsync();
         }
+
+        public async Task<Product> FindByCode(int code)
+        {
+            return await _db.Set<Product>().AsNoTracking().FirstOrDefaultAsync(x => x.Code == code);
+        }
     }
 }

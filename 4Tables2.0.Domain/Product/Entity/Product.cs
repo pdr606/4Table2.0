@@ -7,6 +7,7 @@ namespace _4Tables2._0.Domain.ProductDomain.Entity
     public class Product : BaseEntity
     {
         public long Id { get; private set; }
+        public int? Code { get; set; }
         public string Name { get; private set; } = string.Empty;
         public decimal Price { get; private set; }
         public int TotalRequests{ get; private set; }
@@ -40,6 +41,11 @@ namespace _4Tables2._0.Domain.ProductDomain.Entity
         public Product AddCategory(ProductCategory category)
         {
             Category = category; return this;
+        }
+
+        public Product AddCode(int? code)
+        {
+            Code = code; return this;
         }
         #endregion
     }

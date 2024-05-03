@@ -107,6 +107,9 @@ namespace _4Tables2._0.Infra.Migrations
                     b.Property<int>("Category")
                         .HasColumnType("integer");
 
+                    b.Property<int>("Code")
+                        .HasColumnType("integer");
+
                     b.Property<DateTime>("Created_At")
                         .HasColumnType("timestamp with time zone");
 

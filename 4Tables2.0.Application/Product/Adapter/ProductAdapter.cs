@@ -18,6 +18,7 @@ namespace _4Tables2._0.Application.ProductApplication.Adapter
                        .AddName(dto.name.ToUpper())
                        .AddPrice(price)
                        .AddTotalRequests(0)
+                       .AddCode(dto.code)
                        .AddCategory(dto.category);
         }
 
@@ -27,6 +28,7 @@ namespace _4Tables2._0.Application.ProductApplication.Adapter
                                           entity.Name,
                                           entity.Price.ToString("N2").Replace('.', ','),
                                           entity.TotalRequests,
+                                          entity.Code,
                                           entity.Category);
         }
 

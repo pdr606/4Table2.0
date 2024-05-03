@@ -3356,31 +3356,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pedro.guarnieri\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages": {}
+    "C:\\Users\\tutor\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables\\4Tables.Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables\\4Tables.Presentation.csproj",
       "projectName": "4Tables.Presentation",
-      "projectPath": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables\\4Tables.Presentation.csproj",
-      "packagesPath": "C:\\Users\\pedro.guarnieri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables\\obj\\",
+      "projectPath": "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables\\4Tables.Presentation.csproj",
+      "packagesPath": "C:\\Users\\tutor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\pedro.guarnieri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+        "C:\\Users\\tutor\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -3388,14 +3382,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Application\\4Tables2.0.Application.csproj": {
-              "projectPath": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Application\\4Tables2.0.Application.csproj"
+            "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables2.0.Application\\4Tables2.0.Application.csproj": {
+              "projectPath": "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables2.0.Application\\4Tables2.0.Application.csproj"
             },
-            "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Domain\\4Tables2.0.Domain.csproj": {
-              "projectPath": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Domain\\4Tables2.0.Domain.csproj"
+            "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables2.0.Domain\\4Tables2.0.Domain.csproj": {
+              "projectPath": "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables2.0.Domain\\4Tables2.0.Domain.csproj"
             },
-            "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Infra\\4Tables2.0.Infra.csproj": {
-              "projectPath": "C:\\Users\\pedro.guarnieri\\source\\repos\\4Tables2.0\\4Tables2.0.Infra\\4Tables2.0.Infra.csproj"
+            "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables2.0.Infra\\4Tables2.0.Infra.csproj": {
+              "projectPath": "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables2.0.Infra\\4Tables2.0.Infra.csproj"
             }
           }
         }

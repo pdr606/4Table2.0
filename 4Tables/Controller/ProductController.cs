@@ -52,5 +52,12 @@ namespace _4Tables.ControllerProduct
             var result = await _productService.FindAllByCategory((ProductCategory)category);
             return ResponseBase(System.Net.HttpStatusCode.OK, result);
         }
+
+        [HttpGet("Code/{code:int}")]
+        public async Task<ActionResult<BasicResult<ProductResponseDto>>> FindByCode([FromRoute] int code)
+        {
+            var result = await _productService.FindByCode(code);
+            return ResponseBase(System.Net.HttpStatusCode.OK, result);
+        }
     }
 }

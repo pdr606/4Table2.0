@@ -62,6 +62,15 @@ namespace _4Tables2._0.Application.ProductDomain.Services
             return BasicResult.Success(productsDto);
         }
 
+        public async Task<BasicResult<ProductResponseDto>> FindByCode(int code)
+        {
+            var product = await _productRepository.FindByCode(code);
+            if (product == null)
+                return BasicResult.Failure<ProductResponseDto>(new(HttpStatusCode.BadRequest, $"Produto com id {code} não encontrado."));
+
+            return BasicResult.Success<ProductResponseDto>(ProductAdapter.ToDto(product));
+        }
+
         private async Task<List<Product>> RemoveDuplicateProducts(List<ProductCreateRequestDto> productsDto)
         {
             var products = new List<Product>();

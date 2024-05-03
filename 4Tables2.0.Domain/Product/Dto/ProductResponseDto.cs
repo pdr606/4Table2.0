@@ -6,5 +6,6 @@ namespace _4Tables2._0.Domain.ProductDomain.Dto
                                      string name,
                                      string price,
                                      int totalRequests,
+                                     int? code,
                                      ProductCategory Category);
 }

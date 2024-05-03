@@ -12,6 +12,7 @@ namespace _4Tables2._0.Domain.ProductDomain.Interfaces.Services
         Task<BasicResult<IEnumerable<ProductResponseDto>>> FindAllActives();
         Task<BasicResult<IEnumerable<ProductResponseDto>>> FindAllDesactives();
         Task<BasicResult<IEnumerable<ProductResponseDto>>> FindAllByCategory(ProductCategory category);
+        Task<BasicResult<ProductResponseDto>> FindByCode(int code);
         
     }
 }
