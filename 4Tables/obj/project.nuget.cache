@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GoQU67IZ+DrFK+B6OiYRoidZldaAEThulcCP0P/nKXrpgI+Y7h+qKoqHGYdlyMtQYYGsHQ7csU13bIwM9aI5aQ==",
+  "dgSpecHash": "dF+DguyX5LxgQdqhsUYAEKt0RKoHmmjR9OAdUDJ5wjFaJN6HuptGm9uZJoehmxPhln8+4kKh+o1Fpct+Cjks0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables\\4Tables.Presentation.csproj",
+  "projectFilePath": "C:\\Users\\tutor\\source\\repos\\4Table2.0\\4Tables\\4Tables.Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tutor\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\tutor\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

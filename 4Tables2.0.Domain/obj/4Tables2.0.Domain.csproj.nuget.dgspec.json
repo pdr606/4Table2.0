@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables2.0.Domain\\4Tables2.0.Domain.csproj": {}
+    "C:\\Users\\tutor\\source\\repos\\4Table2.0\\4Tables2.0.Domain\\4Tables2.0.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables2.0.Domain\\4Tables2.0.Domain.csproj": {
+    "C:\\Users\\tutor\\source\\repos\\4Table2.0\\4Tables2.0.Domain\\4Tables2.0.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables2.0.Domain\\4Tables2.0.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\tutor\\source\\repos\\4Table2.0\\4Tables2.0.Domain\\4Tables2.0.Domain.csproj",
         "projectName": "4Tables2.0.Domain",
-        "projectPath": "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables2.0.Domain\\4Tables2.0.Domain.csproj",
+        "projectPath": "C:\\Users\\tutor\\source\\repos\\4Table2.0\\4Tables2.0.Domain\\4Tables2.0.Domain.csproj",
         "packagesPath": "C:\\Users\\tutor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables2.0.Domain\\obj\\",
+        "outputPath": "C:\\Users\\tutor\\source\\repos\\4Table2.0\\4Tables2.0.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tutor\\AppData\\Roaming\\NuGet\\NuGet.Config",

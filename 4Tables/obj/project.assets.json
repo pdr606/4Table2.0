@@ -3361,11 +3361,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables\\4Tables.Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\tutor\\source\\repos\\4Table2.0\\4Tables\\4Tables.Presentation.csproj",
       "projectName": "4Tables.Presentation",
-      "projectPath": "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables\\4Tables.Presentation.csproj",
+      "projectPath": "C:\\Users\\tutor\\source\\repos\\4Table2.0\\4Tables\\4Tables.Presentation.csproj",
       "packagesPath": "C:\\Users\\tutor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables\\obj\\",
+      "outputPath": "C:\\Users\\tutor\\source\\repos\\4Table2.0\\4Tables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tutor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3382,14 +3382,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables2.0.Application\\4Tables2.0.Application.csproj": {
-              "projectPath": "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables2.0.Application\\4Tables2.0.Application.csproj"
+            "C:\\Users\\tutor\\source\\repos\\4Table2.0\\4Tables2.0.Application\\4Tables2.0.Application.csproj": {
+              "projectPath": "C:\\Users\\tutor\\source\\repos\\4Table2.0\\4Tables2.0.Application\\4Tables2.0.Application.csproj"
             },
-            "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables2.0.Domain\\4Tables2.0.Domain.csproj": {
-              "projectPath": "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables2.0.Domain\\4Tables2.0.Domain.csproj"
+            "C:\\Users\\tutor\\source\\repos\\4Table2.0\\4Tables2.0.Domain\\4Tables2.0.Domain.csproj": {
+              "projectPath": "C:\\Users\\tutor\\source\\repos\\4Table2.0\\4Tables2.0.Domain\\4Tables2.0.Domain.csproj"
             },
-            "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables2.0.Infra\\4Tables2.0.Infra.csproj": {
-              "projectPath": "C:\\Users\\tutor\\Source\\Repos\\4Table2.0\\4Tables2.0.Infra\\4Tables2.0.Infra.csproj"
+            "C:\\Users\\tutor\\source\\repos\\4Table2.0\\4Tables2.0.Infra\\4Tables2.0.Infra.csproj": {
+              "projectPath": "C:\\Users\\tutor\\source\\repos\\4Table2.0\\4Tables2.0.Infra\\4Tables2.0.Infra.csproj"
             }
           }
         }
